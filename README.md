@@ -13,6 +13,8 @@ Detailed user activity tables
 
 Whether you're curious about your group's dynamics or want to dive deep into messaging patterns, WhatsApp Insight Hub makes it easy, fast, and insightful!
 
+**🚀 Live App:** (https://whatsapp-insight-app-es5cwknahyuuxeovjzusxs.streamlit.app/)
+
 ## 🛠️ Technologies Used
 
 - **Streamlit** for the front-end interface
@@ -66,8 +68,4 @@ Before deploying the app locally, make sure you have the following installed on 
    First, clone the repository to your local machine using Git:
    ```bash
    git clone https://github.com/your-username/whatsapp-insight-hub.git
-
-### Key Additions:
-- The **Live Version** link (https://whatsapp-insight-app-es5cwknahyuuxeovjzusxs.streamlit.app/)
-
 
