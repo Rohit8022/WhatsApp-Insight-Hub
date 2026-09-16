@@ -8,7 +8,7 @@ import seaborn as sns
 st.set_page_config(page_title='WhatsApp Insight Hub', layout='wide')
 st.markdown('<style>body {background-color: #f7f9fc;}</style>', unsafe_allow_html=True)
 st.title("💬 WhatsApp Insight Hub")
-st.markdown("### Designed and Developed by Shreyas Singh - Shevy")
+st.markdown("### Designed and Developed by Rohit Prajapati")
 st.markdown("### Analyze your WhatsApp chat data with powerful insights and beautiful visualizations!")
 
 # Custom CSS for mobile responsiveness
