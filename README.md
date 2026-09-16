@@ -68,7 +68,7 @@ Before deploying the app locally, make sure you have the following installed on 
    git clone https://github.com/your-username/whatsapp-insight-hub.git
 
 ### Key Additions:
-- The **Live Version** link (`[https://whatsapp-insight-app-es5cwknahyuuxeovjzusxs.streamlit.app/]`) 
+- The **Live Version** link ([https://whatsapp-insight-app-es5cwknahyuuxeovjzusxs.streamlit.app/])
 \
 
 
