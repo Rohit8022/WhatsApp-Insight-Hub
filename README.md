@@ -13,7 +13,7 @@ Detailed user activity tables
 
 Whether you're curious about your group's dynamics or want to dive deep into messaging patterns, WhatsApp Insight Hub makes it easy, fast, and insightful!
 
-**🚀 Live App:** (https://whatsapp-insight-app-es5cwknahyuuxeovjzusxs.streamlit.app/)
+**🚀 Live App:** (`https://whatsapp-insight-app-es5cwknahyuuxeovjzusxs.streamlit.app/`)
 
 ## 🛠️ Technologies Used
 
